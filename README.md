@@ -1,0 +1,1 @@
+# SQL_Medium_Hacker_Rank_Solved
